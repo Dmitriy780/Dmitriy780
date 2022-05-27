@@ -13,7 +13,7 @@
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
-* 📱  I make apps for Android and iOS
+* 📱   I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 📺 I make web development
 
@@ -21,7 +21,7 @@
 ## 📖 Core skills
 
 * 🔭 Frontend : React.js, Next.js Vue.js, Nuxt.js, Angular
-* 📱  Mobile : React Native, Java, Kotlin, Swift
+* 📱   Mobile : React Native, Java, Kotlin, Swift
 * 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 * 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 * Backend : PHP / Laravel, CI, Node.js / Express, Python / Django , Java / Spring
