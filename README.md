@@ -18,6 +18,17 @@
 * 📺 I make web development
 
 
+## 📖 Core skills
+
+* 🔭 Frontend : React.js, Next.js Vue.js, Nuxt.js, Angular
+* 📱  Mobile : React Native, Java, Kotlin, Swift
+* 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
+* 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+* Backend : PHP / Laravel, CI, Node.js / Express, Python / Django , Java / Spring
+* 💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+* 📫 Languages : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+
+
 ## 🔥 My contribution streak
 
 <p align="center">
